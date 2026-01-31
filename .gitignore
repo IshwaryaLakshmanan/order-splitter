@@ -67,7 +67,6 @@ temp/
 *.tgz
 
 # dotenv environment variables file
-.env*
 !.env.example
 
 # TypeScript
